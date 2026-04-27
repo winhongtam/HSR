@@ -6,7 +6,8 @@
 
 | 檔案 | 內容 | 資料時效 |
 |---|---|---|
-| [`hsr_timetable.md`](./hsr_timetable.md) | 台灣高鐵 12 站票價表、車種、生效日資訊 | 自 2026-02-02 起 |
+| [`hsr_timetable.md`](./hsr_timetable.md) | 台灣高鐵 12 站票價表、車種、生效日、PDF 查詢指引 | 自 2026-02-02 起 |
+| [`HSR.pdf`](./HSR.pdf) | 台灣高鐵官方完整時刻表 PDF（北上+南下逐班車逐站時刻） | 自 2026-02-02 起 |
 | [`airport_mrt_timetable.md`](./airport_mrt_timetable.md) | 桃園機場捷運 A1/A12/A13/A17/A18/A21/A22 雙向時刻表 | 至 2026-05-31 |
 
 ## 資料來源
